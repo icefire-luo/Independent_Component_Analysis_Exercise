@@ -1,2 +1,4 @@
 default.profraw
-.ipynb_checkpoints/*
+*-checkpoint.ipynb
+*-checkpoint.md
+.DS_Store
